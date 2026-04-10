@@ -26,7 +26,7 @@
 <body>
 
 <div class="container">
-    <h1> 우리 동네 녹지 공간 상세 안내</h1>
+    <h1> 안산시 단원구 선부동 녹지 공간 상세 안내</h1>
     <p class="subtitle">우울감 완화 및 자살 예방을 위한 심리적 안전망 가이드</p>
 
     <div class="map-section">
