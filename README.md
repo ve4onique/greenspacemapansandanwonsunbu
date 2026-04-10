@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>마음의 완충지대: 학교 주변 녹지 공간 가이드</title>
+    <title>마음의 완충지대: 안산시 단원구 선부동 주변 녹지 공간 가이드</title>
     <style>
         body { font-family: 'Malgun Gothic', sans-serif; line-height: 1.6; color: #333; background-color: #f9fbf9; margin: 0; padding: 20px; }
         .container { max-width: 900px; margin: 0 auto; background: white; padding: 40px; border-radius: 20px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
@@ -69,7 +69,7 @@
     </div>
 
     <footer style="margin-top: 50px; text-align: center; color: #888; font-size: 0.8rem;">
-        이 프로젝트는 우리 주변의 녹지 공간이 학생들의 심리적 방파제가 되길 바라는 마음으로 제작되었습니다.
+        이 프로젝트는 우리 주변의 녹지 공간이 많은 이들의 심리적 방파제가 되길 바라는 마음으로 제작되었습니다.
     </footer>
 </div>
 
